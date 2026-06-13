@@ -35,9 +35,8 @@ Beyond coding, I enjoy writing about software development, DevOps practices, and
 ### 🛠 Tech Stack
 
 - **Mobile:** Flutter
-- **Backend:** Node.js, NestJS, Express
 - **Cloud & DevOps:** Docker, AWS (EC2, S3, Lambda), Nginx, GitHub Actions
-- **Databases:** MongoDB, Supabase, Firebase
+- **Databases:** Supabase, Firebase
 
 ---
 
