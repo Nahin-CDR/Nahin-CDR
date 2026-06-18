@@ -50,3 +50,4 @@ Beyond coding, I enjoy writing about software development, DevOps practices, and
 - 💼 LinkedIn: [Nazmul Haque Nahin](https://www.linkedin.com/in/nazmul-haque-nahin/)
 - ✍️ Medium: [@nahin.cdr](https://medium.com/@nahin.cdr)
 - ✍️ Notes: [Notes](https://draft-notes-gfo2.onrender.com)
+- https://docs.google.com/spreadsheets/d/1l_28BIGMn8xjqbIQFAtDa0c54nCv6JhTguncvTpOAvw/edit?usp=sharing
